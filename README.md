@@ -3,6 +3,8 @@ An Upright piano I bought for soundfont recording. Lightly out of tune
 
 An upright piano for free use in Black MIDI videos, editing, or other uses.
 
+New samples soon
+
 Contains a total of :
 - 29 samples (A, C, D#, F#)
 - 4 Velocity Layers
